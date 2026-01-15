@@ -30,10 +30,3 @@
 
 <p align="left">🎓 Graduated in Systems Analysis and Development<br>🌐 Web Developer with a focus on creating innovative solutions<br>💡 Passionate about tackling challenges and exploring new ideas</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlosgmk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
